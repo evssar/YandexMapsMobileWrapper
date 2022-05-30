@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/evssar/YandexMapsMobileBinary",
-            revision: "22739758b23fd1ed5168df53fa488c6d28347caf"
+            revision: "b88d7fc0a37e453c754b31f8aaf9bdaca1426789"
         )
     ],
     targets: [
