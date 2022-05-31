@@ -1,0 +1,13 @@
+{
+  "pins" : [
+    {
+      "identity" : "yandexmapsmobilebinary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/evssar/YandexMapsMobileBinary",
+      "state" : {
+        "revision" : "b88d7fc0a37e453c754b31f8aaf9bdaca1426789"
+      }
+    }
+  ],
+  "version" : 2
+}
